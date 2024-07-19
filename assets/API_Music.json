@@ -1216,6 +1216,42 @@
             "image": "Yanshuei_040.mp3"
         },
         {
+            "name": "在河岸散步",
+            "location": [
+                23.31737, 
+                120.26654
+            ],
+            "address": "西門路2-4號",
+            "image": "Yanshuei_041.mp3"
+        },
+        {
+            "name": "電子遊戲機台",
+            "location": [
+                23.32039, 
+                120.26788
+            ],
+            "address": "中正路35-7號",
+            "image": "Yanshuei_042.mp3"
+        },
+        {
+            "name": "為了照顧阿公",
+            "location": [
+                23.32062, 
+                120.26809
+            ],
+            "address": "朝琴路與中正路轉角處",
+            "image": "Yanshuei_043.mp3"
+        },
+        {
+            "name": "沐浴在月光下",
+            "location": [
+                23.32385,
+                120.2624
+            ],
+            "address": "金和路靠近三福路旁的田間",
+            "image": "Yanshuei_044.mp3"
+        },
+        {
             "name": "京都散策",
             "location": [
                 35.01083, 
