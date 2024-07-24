@@ -1252,6 +1252,42 @@
             "image": "Yanshuei_044.mp3"
         },
         {
+            "name": "復活的河流",
+            "location": [
+                23.31637,
+                120.2696
+            ],
+            "address": "水月橋旁的河岸",
+            "image": "Yanshuei_045.mp3"
+        },
+        {
+            "name": "月亮形狀港口",
+            "location": [
+                23.31789,
+                120.26544
+            ],
+            "address": "西門路19-2號",
+            "image": "Yanshuei_046.mp3"
+        },
+        {
+            "name": "渡船夫的女兒",
+            "location": [
+                23.3208,
+                120.26275
+            ],
+            "address": "興津橋的河岸旁",
+            "image": "Yanshuei_047.mp3"
+        },
+        {
+            "name": "理髮店",
+            "location": [
+                23.324016,
+                120.26295
+            ],
+            "address": "治水路與金河路轉角",
+            "image": "Yanshuei_048.mp3"
+        },
+        {
             "name": "京都散策",
             "location": [
                 35.01083, 
