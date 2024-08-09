@@ -1288,6 +1288,96 @@
             "image": "Yanshuei_048.mp3"
         },
         {
+            "name": "一銀巷、金銀巷",
+            "location": [
+                23.320711,
+                120.265683
+            ],
+            "address": "武廟路13號",
+            "image": "Yanshuei_049.mp3"
+        },
+        {
+            "name": "鹽水的特色美食",
+            "location": [
+                23.320392,
+                120.268490
+            ],
+            "address": "康樂路30-58號",
+            "image": "Yanshuei_050.mp3"
+        },
+        {
+            "name": "造月工坊中的苗木林森",
+            "location": [
+                23.325487,
+                120.266319
+            ],
+            "address": "武廟路2-8號",
+            "image": "Yanshuei_051.mp3"
+        },
+        {
+            "name": "鹽水護庇宮",
+            "location": [
+                23.324250,
+                120.267979
+            ],
+            "address": "中正路134-148號",
+            "image": "Yanshuei_052.mp3"
+        },
+        {
+            "name": "水上船屋藝方舟",
+            "location": [
+                23.322063,
+                120.272650
+            ],
+            "address": "水秀橋沿岸一帶",
+            "image": "Yanshuei_053.mp3"
+        },
+        {
+            "name": "王爺廟巷的黑貓酒家",
+            "location": [
+                23.319574,
+                120.267271
+            ],
+            "address": "中山路16號旁",
+            "image": "Yanshuei_054.mp3"
+        },
+        {
+            "name": "曾經的港口碼頭",
+            "location": [
+                23.317266,
+                120.265631
+            ],
+            "address": "月津路12巷52號",
+            "image": "Yanshuei_055.mp3"
+        },
+        {
+            "name": "興隆水月",
+            "location": [
+                23.322403,
+                120.268232
+            ],
+            "address": "橋南街4號",
+            "image": "Yanshuei_056.mp3"
+        },
+        {
+            "name": "永成戲院之臉譜面具",
+            "location": [
+                23.323423,
+                120.269447
+            ],
+            "address": "康樂路36號",
+            "image": "Yanshuei_057.mp3"
+        },
+        {
+            "name": "兔大叔",
+            "location": [
+                23.318497,
+                120.267022
+            ],
+            "address": "西門路的防空壕附近",
+            "image": "Yanshuei_058.mp3"
+        },
+        {
             "name": "京都散策",
             "location": [
                 35.01083, 
