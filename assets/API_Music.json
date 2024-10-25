@@ -1,6 +1,231 @@
 {
     "marker": [
         {
+            "name": "臺中郵便局",
+            "location": [
+                24.13892,
+                120.67905
+            ],
+            "address": "民權路86號",
+            "image": "taichung_001.mp3"
+        },
+        {
+            "name": "合作金庫",
+            "location": [
+                24.13799,
+                120.68024
+            ],
+            "address": "自由路二段2號",
+            "image": "taichung_002.mp3"
+        },
+        {
+            "name": "彰化銀行",
+            "location": [
+                24.13955,
+                120.68182
+            ],
+            "address": "自由路二段38號",
+            "image": "taichung_003.mp3"
+        },
+        {
+            "name": "台中州廳",
+            "location": [
+                24.13855, 
+                120.67848
+            ],
+            "address": "民權路99號",
+            "image": "taichung_004.mp3"
+        },
+        {
+            "name": "台中市役所",
+            "location": [
+                24.13833, 
+                120.67910
+            ],
+            "address": "民權路97號",
+            "image": "taichung_005.mp3"
+        },
+        {
+            "name": "大屯郡役所",
+            "location": [
+                24.13811,
+                120.67663 
+            ],
+            "address": "民生路36號",
+            "image": "taichung_006.mp3"
+        },
+        {
+            "name": "臺中警察署廳舍",
+            "location": [
+                24.13868,
+                120.67577
+            ],
+            "address": "三民路一段178號",
+            "image": "taichung_007.mp3"
+        },
+        {
+            "name": "儒考棚",
+            "location": [
+                24.13708,
+                120.67684
+            ],
+            "address": "府後街38-8號",
+            "image": "taichung_008.mp3"
+        },
+        {
+            "name": "四維招待所",
+            "location": [
+                24.13649, 
+                120.67667
+            ],
+            "address": "四維街1號",
+            "image": "taichung_009.mp3"
+        },
+        {
+            "name": "台中刑務所官舍",
+            "location": [
+                24.13381, 
+                120.67438
+            ],
+            "address": "林森路25巷4號",
+            "image": "taichung_010.mp3"
+        },
+        {
+            "name": "臺中演武場",
+            "location": [
+                24.13438, 
+                120.67391
+            ],
+            "address": "林森路33號",
+            "image": "taichung_011.mp3"
+        },
+        {
+            "name": "上海未名排骨麵",
+            "location": [
+                24.13798,
+                120.67857
+            ],
+            "address": "市府路6號旁邊",
+            "image": "taichung_012.mp3"
+        },
+        {
+            "name": "稻香村",
+            "location": [
+                24.13784,
+                120.67828
+            ],
+            "address": "市府路2號旁邊",
+            "image": "taichung_013.mp3"
+        },
+        {
+            "name": "黎明大廈",
+            "location": [
+                24.13785, 
+                120.67783
+            ],
+            "address": "市府路39號旁邊",
+            "image": "taichung_014.mp3"
+        },
+        {
+            "name": "菜根香牛肉麵舊址",
+            "location": [
+                24.13684,
+                120.67647
+            ],
+            "address": "四維街20號旁邊",
+            "image": "taichung_015.mp3"
+        },
+        {
+            "name": "孔媽媽便當",
+            "location": [
+                24.13754,
+                120.67666
+            ],
+            "address": "府後街58號",
+            "image": "taichung_016.mp3"
+        },
+        {
+            "name": "豆花樹",
+            "location": [
+                24.13855,
+                120.67712
+            ],
+            "address": "市府路41巷19號附近",
+            "image": "taichung_017.mp3"
+        },
+        {
+            "name": "防空洞",
+            "location": [
+                24.13574,
+                120.67421
+            ],
+            "address": "三民路一段156巷22號附近",
+            "image": "taichung_018.mp3"
+        },
+        {
+            "name": "理髮店",
+            "location": [
+                24.13633, 
+                120.67606
+            ],
+            "address": "康樂街2巷6號附近",
+            "image": "taichung_019.mp3"
+        },
+        {
+            "name": "301水餃",
+            "location": [
+                24.13676,
+                120.67555
+            ],
+            "address": "康樂街3號",
+            "image": "taichung_020.mp3"
+        },
+        {
+            "name": "春水堂創始店",
+            "location": [
+                24.13756, 
+                120.67558
+            ],
+            "address": "四維街30號附近",
+            "image": "taichung_021.mp3"
+        },
+        {
+            "name": "法院宿舍",
+            "location": [
+                24.13494,
+                120.67459
+            ],
+            "address": "林森路24巷25號附近",
+            "image": "taichung_022.mp3"
+        },
+        {
+            "name": "居仁教師宿舍",
+            "location": [
+                24.13647,
+                120.67499
+            ],
+            "address": "府後街與康樂街轉角處",
+            "image": "taichung_023.mp3"
+        },
+         {
+            "name": "民生老宅",
+            "location": [
+                24.13891, 
+                120.67658
+            ],
+            "address": "民生路56巷3號",
+            "image": "taichung_024.mp3"
+        },
+         {
+            "name": "憲光七村",
+            "location": [
+                24.13833, 
+                120.67723
+            ],
+            "address": "市府路41巷19號",
+            "image": "taichung_025.mp3"
+        },
+        {
             "name": "大溪老街",
             "location": [
                 24.88518,
